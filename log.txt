@@ -1,0 +1,60 @@
+2020-11-01
+2020-11-02 02:27:22+00:00
+2020-11-02
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01
+<imap_tools.message.Attachment object at 0x7f3d0bd39438>
+image001.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image001.png
+image001.png
+<imap_tools.message.Attachment object at 0x7f3d0bd39a90>
+image002.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image002.png
+image002.png
+<imap_tools.message.Attachment object at 0x7f3d0bd39550>
+image003.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image003.png
+image003.png
+<imap_tools.message.Attachment object at 0x7f3d0aeb30f0>
+image004.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image004.png
+image004.png
+<imap_tools.message.Attachment object at 0x7f3d0aeb3160>
+image005.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image005.png
+image005.png
+<imap_tools.message.Attachment object at 0x7f3d0aeb3320>
+image006.png
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image006.png
+image006.png
+<imap_tools.message.Attachment object at 0x7f3d0aeb3358>
+image007.jpg
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/image007.jpg
+image007.jpg
+<imap_tools.message.Attachment object at 0x7f3d0bd394a8>
+nhập xuất tồn 02.11.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/nhập xuất tồn 02.11.XLSX
+nhập xuất tồn 02.11.XLSX
+<imap_tools.message.Attachment object at 0x7f3d0aeb34a8>
+BC XUẤT BÁN THÀNH PHẨM 02.11.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/BC XUẤT BÁN THÀNH PHẨM 02.11.XLSX
+BC XUẤT BÁN THÀNH PHẨM 02.11.XLSX
+<imap_tools.message.Attachment object at 0x7f3d0aeb34e0>
+BC THÀNH PHẨM SẢN XUẤT 02.11.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/BC THÀNH PHẨM SẢN XUẤT 02.11.XLSX
+BC THÀNH PHẨM SẢN XUẤT 02.11.XLSX
+2020-11-01
+2020-11-02 15:08:13+07:00
+2020-11-02
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01
+<imap_tools.message.Attachment object at 0x7f3d0aeb3a90>
+01 Số liệu xuất nhập tồn.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/01 Số liệu xuất nhập tồn.XLSX
+01 Số liệu xuất nhập tồn.XLSX
+<imap_tools.message.Attachment object at 0x7f3d0aeb3b00>
+02 Báo cáo thành phẩm sản xuất.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/02 Báo cáo thành phẩm sản xuất.XLSX
+02 Báo cáo thành phẩm sản xuất.XLSX
+<imap_tools.message.Attachment object at 0x7f3d0aeb3a58>
+03 Báo cáo xuất bán thành phẩm.XLSX
+/home/viethoang/ai-academy/Gmail_preprocess/data/2020-11-01/thanhpham/03 Báo cáo xuất bán thành phẩm.XLSX
+03 Báo cáo xuất bán thành phẩm.XLSX

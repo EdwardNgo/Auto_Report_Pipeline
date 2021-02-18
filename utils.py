@@ -5,22 +5,22 @@ import string
 from pyvi import ViUtils
 
 EMAIL_INFO = {
-    "host": "mail.aiacademy.edu.vn",
-    "email": "mptla@aiacademy.edu.vn",
-    "password": "Alexa@Siri",
+    "host": "",
+    "email": "",
+    "password": "",
 }
 # DATABASE_INFO = {
-#     "host": "128.199.194.183",
-#     "database": "mp_tla_prod",
-#     "user": "tla_developer",
-#     "password": "mp_tla",
-#     "port": 5432,
+#     "host": "",
+#     "database": "",
+#     "user": "",
+#     "password": "",
+#     "port": ,
 # }
 DATABASE_INFO = {
-    "host": "128.199.194.183",
-    "database": "mp_tla",
-    "user": "tla_developer",
-    "password": "mp_tla",
+    "host": "",
+    "database": "",
+    "user": "",
+    "password": "",
     "port": 5432,
 }
 SAlE_MAIL_LIST = ["quangson@minhphu.com", "vanlen@minhphu.com"]
@@ -103,65 +103,3 @@ def processColumn(df):
             .replace("__", "_")
         )
         for column in df.columns
-    ]
-    df.columns = [column.lower() for column in df.columns]
-    return df
-
-
-def remove_punct(test_str):
-    for i in string.punctuation:
-        if i in test_str:
-            test_str = test_str.replace(i, " ")
-    return test_str
-
-
-def preprocess(a):
-    a = " ".join(remove_punct(a).split())
-    a = " ".join(a.lower().split())
-    a = ViUtils.remove_accents(a)
-    a = a.decode()
-    a = " ".join(a.lower().split())
-    a = a.replace(" ", "_")
-    return a
-
-
-def get_product_type(a):
-    a = a.split()
-    return a[0]
-
-
-def get_process_type(a):
-    a = a.split()
-    return a[1]
-
-
-def get_size(a):
-    a = a.split()
-    try:
-        return a[2]
-    except:
-        print(a)
-        pass
-
-
-# def get_attachment(mail):
-
-#     # attachment = mail.(mails)
-#     download_path = f"{download_folder}/{filename}"
-#     print(download_path)
-
-#     with open(download_path, "wb") as fp:
-#         fp.write(filecontent)
-if __name__ == "__main__":
-    # test = encoded_words_to_text(
-    #     "=?utf-8?B?MDEgU+G7kSBsaeG7h3UgeHXhuqV0IG5o4bqtcCB04buTbi5YTFNY?="
-    # )
-    # print(test)
-    # test1 = encoded_words_to_text(
-    #     "=?UTF-8?B?MDIgQsOhbyBjw6FvIHRow6BuaCBwaOG6qW0gc+G6o24geHXhuqV0Llg=?="
-    # )
-    # print(test1)
-    print( findfiles(f"NGÔ THỊ BỬU HƯỜNG-*.xlsx", f"output/2020-11-06")
-    )
-    
-    print(preprocess("Nhà máy(Plant)"))
